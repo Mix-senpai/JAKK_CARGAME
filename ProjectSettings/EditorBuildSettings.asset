@@ -8,4 +8,22 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: c94a6b201fe060245858cd11ed20a5a1
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: ab0633f6943e9ca47ae040482ea874ad
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+    guid: 80d503cafd38d3b48bcf40776e5c5ad0
+  - enabled: 1
+    path: Assets/Scenes/Track1.unity
+    guid: a4d7c7b77f5b74949af374e5e05be7e5
+  - enabled: 1
+    path: Assets/Scenes/Track2.unity
+    guid: bfd6811069f54ea4f991d9cfc3d146c5
+  - enabled: 1
+    path: Assets/Scenes/Track3.unity
+    guid: 096954abb7bf30448a55d353abfdd663
   m_configObjects: {}
